@@ -21,8 +21,7 @@
 
 
 ### Conecte-se comigo
-# Conecte-se comigo
-# Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/seu-usuario)
 📧 Email: [pietromiranda2111@gmail.com](mailto:pietromiranda2111@gmail.com)
