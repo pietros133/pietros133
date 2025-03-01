@@ -2,7 +2,7 @@
 # Olá! Eu sou Pietro Miranda 👋
 
 ### Sobre mim
-- 🔭 Atualmente estou trabalhando em um Projeto sobre um Centro de Revitalização da Água
+- 🔭 Atualmente estou trabalhando em um Projeto pessoal sobre um centro de revitalização da Água
 - 🌱 Atualmente estou aprendendo Java POO.
 - 📫 Como me encontrar: pietromiranda2111@gmail.com
 
