@@ -21,6 +21,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/your-username)
 📧 Email: [pietromiranda2111@gmail.com](mailto:pietromiranda2111@gmail.com)
-
-### GitHub Stats
-![GitHub Stats](https://www.github.com/stats/)  GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
