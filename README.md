@@ -1,8 +1,8 @@
 # Hello! I'm Pietro Miranda 👋
 
 ### About me
-- 🔭 I'm currently working on a personal project about a water revitalization center
-- 🌱 I'm currently learning Java POO.
+- 🔭 I'm currently working on a personal project about a Company that give ambiental projects
+- 🌱 I'm currently learning Java Poo
 - 📫 How to find me: pietromiranda2111@gmail.com
 
 ### Technologies and  Tools
