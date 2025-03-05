@@ -16,8 +16,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### GitHub Statistics
-![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?pietros133=your-pietros133&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pietros133=your-pietros133&layout=compact&theme=radical)
+![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-pietros133&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-pietros133&layout=compact&theme=radical)
 
 ### Connect with me
 
