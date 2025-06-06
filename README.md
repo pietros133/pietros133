@@ -1,8 +1,8 @@
 # Hello! I'm Pietro Miranda 👋
 
 ### About me  
-- 🔭 I'm currently working on a personal project about a website about recycling awareness.  
-- 🌱 I'm currently learning Java POO  
+- 🔭 I'm currently working on a personal project about a inventory management app.  
+- 🌱 I'm currently learning Node Js
 - 📫 How to find me: pietromiranda2111@gmail.com  
 
 ### Technologies and Tools  
