@@ -1,7 +1,7 @@
 # Hello! I'm Pietro Miranda 👋
 
-### About me  
-- 🔭 I'm currently working on a personal project about a inventory management app.  
+### About me 
+- 🔭 I’m currently working on a personal project: a gamified finance education app.
 - 🌱 I'm currently learning Node Js
 - 📫 How to find me: pietromiranda2111@gmail.com  
 
