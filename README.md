@@ -26,7 +26,7 @@
 ---
 
 ### 🧠 LeetCode Statistics  
-![LeetCode Stats](https://leetcard.jacoblin.cool/SEU_USUARIO?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Pietros133?theme=dark&font=Karma&ext=heatmap)
 
 ---
 
