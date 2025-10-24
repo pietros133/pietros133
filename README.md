@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me  
 - 🔭 I’m currently working on a personal project: a gamified finance education app.  
 - 🌱 I’m currently learning **Node.js**.  
-- 📫 How to reach me: **pietromiranda2111@gmail.com**
+- 📫 How to reach me: **santosmirandapietro@gmail.com**
 
 ---
 
@@ -33,4 +33,4 @@
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/seu-usuario)  
-📧 **Email:** [pietromiranda2111@gmail.com](mailto:pietromiranda2111@gmail.com)
+📧 **Email:** [santosmirandapietro@gmail.com](mailto:santosmirandapietro@gmail.com)
