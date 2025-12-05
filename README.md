@@ -1,95 +1,75 @@
-<h1 align="center">👋 Fala aí! Eu sou o Pietro Santos Miranda</h1>
-
+<!-- Foto -->
 <p align="center">
-  <b>Desenvolvedor Back-End • Java • Node.js • SQL • APIs</b><br/>
-  Construindo sistemas sólidos, escaláveis e bem estruturados.
+  <img src="COLOQUE_AQUI_O_LINK_DA_SUA_FOTO" width="160" style="border-radius: 50%;">
 </p>
 
----
-
-## 🧑‍💻 Sobre mim
-
-- 🔧 Focado em desenvolvimento **Back-End**
-- ☕ Java + Spring como stack principal
-- 🟩 Node.js para APIs rápidas e microsserviços
-- 🗄️ Experiência com MySQL e modelagem de dados
-- 🤖 Estudando IA com Java + LangChain
-- ✈️ Objetivo: crescer na área e trabalhar fora do país
+<h1 align="center">Pietro Miranda</h1>
+<p align="center">Backend Developer • Java & Node.js</p>
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+## 👨‍💻 Sobre mim
+
+- 🔧 Desenvolvedor **backend** (Java + Spring Boot & Node.js)  
+- 🚗 Criador do **Automaster** (sistema automotivo)  
+- 💾 Experiência com bancos de dados (MySQL, PostgreSQL)  
+- 📱 Construindo apps mobile com React Native (quando necessário)  
+- ☕ Foco principal: **APIs, arquitetura limpa, performance e autenticação**
+
+---
+
+## 🛠️ Tecnologias
 
 <p align="center">
-  <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,python" /><br/>
-
-  <!-- Back-End -->
-  <img src="https://skillicons.dev/icons?i=spring,express" /><br/>
-
-  <!-- Banco / Infra -->
-  <img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,github" />
-</p>
-
----
-
-## 📌 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/pietros133/Automaster-Backend">
-    <img src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api/pin/?username=pietros133&repo=Automaster-Backend&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/pietros133/banco-terminal-java">
-    <img src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api/pin/?username=pietros133&repo=banco-terminal-java&theme=tokyonight&hide_border=true" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,express,ts,mysql,postgres,docker,git,github,linux,react,reactnative" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <img height="160" 
-       src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api?username=pietros133&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="160"
-       src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api/top-langs/?username=pietros133&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pietros133&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietros133&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pietros133&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pietros133&theme=radical" />
 </p>
 
 ---
 
-## 🧠 LeetCode
+## 🏆 Trophy
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pietros133?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pietros133&theme=radical&column=6"/>
 </p>
 
 ---
 
-## 🌍 Onde me encontrar
+## 📌 Projetos Fixados
 
-<p align="left">
-  <a href="https://github.com/pietros133" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github"/>
+<p align="center">
+  <a href="https://github.com/pietros133/Automaster-Backend">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pietros133&repo=Automaster-Backend&theme=radical" />
   </a>
-  <a href="https://www.linkedin.com/in/seu-link-aqui" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <a href="https://github.com/pietros133/banco-terminal-java">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pietros133&repo=banco-terminal-java&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/pietros133/">
+    <img width="45%" src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  Feito com 💙 por Pietro Miranda
+  <img src="https://komarev.com/ghpvc/?username=pietros133&color=blueviolet" />
 </p>
