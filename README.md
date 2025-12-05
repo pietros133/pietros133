@@ -11,15 +11,15 @@
 
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,typescript,python,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,python,html,css"/>
   <br/>
 
   <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,reactnative,spring,express,nextjs"/>
+  <img src="https://skillicons.dev/icons?i=reactnative,spring,express,flask"/>
   <br/>
 
   <!-- Banco / Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,github,git,linux,figma,docker"/>
+  <img src="https://skillicons.dev/icons?i=mysql,github,git,linux,figma,docker"/>
 </p>
 
 ---
