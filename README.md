@@ -1,36 +1,38 @@
 <h1 align="center">👋 Fala aí! Eu sou o Pietro Santos Miranda</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | Java • Node.js • React Native • Mobile</b><br/>
-  Apaixonado por tecnologia, IA, apps mobile e criação de sistemas completos.
+  <b>Desenvolvedor Back-End | Java • Node.js • SQL • APIs • Arquitetura</b><br/>
+  Construindo sistemas sólidos, rápidos e escaláveis.
 </p>
 
 ---
 
-## 🚀 Tech Stack & Skills
+## ⚙️ Tech Stack — Back-End
 
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,python,html,css"/>
+  <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,python" />
   <br/>
 
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=reactnative,spring,express,flask"/>
+  <!-- Back-End / Frameworks -->
+  <img src="https://skillicons.dev/icons?i=spring,express,flask" />
   <br/>
 
-  <!-- Banco / Ferramentas -->
-  <img src="https://skillicons.dev/icons?i=mysql,github,git,linux,figma,docker"/>
+  <!-- Banco / Infra -->
+  <img src="https://skillicons.dev/icons?i=mysql,docker,linux,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (FUNCIONANDO 2025)
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pietros133&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" 
+       src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api?username=pietros133&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietros133&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160"
+       src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api/top-langs/?username=pietros133&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -47,34 +49,42 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pietros133&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=pietros133&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Projetos Principais (Back-End)
 
 <p align="center">
-  <a href="https://github.com/pietros133/Automaster">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietros133&repo=Automaster&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/pietros133/Automaster-Backend">
+    <img src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api/pin/?username=pietros133&repo=Automaster-Backend&theme=tokyonight&hide_border=true" />
   </a>
 
-  <a href="https://github.com/pietros133/Campo-Minato">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietros133&repo=Campo-Minato&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/pietros133/banco-terminal-java">
+    <img src="https://github-readme-stats-git-master-orgs-engine.vercel.app/api/pin/?username=pietros133&repo=banco-terminal-java&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-> 🔹 Se quiser adicionar mais pins (até 6), só me falar.
+---
+
+## 🧠 LeetCode Progress
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pietros133?theme=dark&font=Source%20Code%20Pro&ext=heatmap" />
+</p>
 
 ---
 
-## 🌎 Sobre mim
+## 🌎 Sobre mim (Back-End)
 
-- 🇧🇷 Brasileiro  
-- 📚 Estudante de Desenvolvimento de Sistemas  
+- 🔧 Focado em **back-end**, APIs REST, segurança e arquitetura  
+- ☕ Java com Spring é minha principal stack  
+- 🟩 Node.js para APIs rápidas e microsserviços  
+- 🗄️ Experiência com **MySQL**, modelagem e integrações  
 - 🤖 Criando uma IA em Java com LangChain  
-- ✈️ Buscando experiência internacional  
-- 🔥 Interesse forte em IA, gamificação e apps educativos
+- ✈️ Buscando experiência internacional no futuro  
+- 🚀 Gosto de performance, escalabilidade e boas práticas
 
 ---
 
