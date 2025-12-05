@@ -1,7 +1,7 @@
 <h1 align="center">👋 Fala aí! Eu sou o Pietro Santos Miranda</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack | Java • Node.js • React • Mobile</b><br/>
+  <b>Desenvolvedor Full Stack | Java • Node.js • React Native • Mobile</b><br/>
   Apaixonado por tecnologia, IA, apps mobile e criação de sistemas completos.
 </p>
 
@@ -52,13 +52,19 @@
 
 ---
 
-## 📱 Projetos em Destaque
+## 📌 Pinned Projects
 
-### 🔹 **Automaster — Sistema para oficinas com autenticação e CRUD**
-- Node.js + Express + MySQL  
-- Login com feedback visual (Toastify)  
-- Estrutura de senhas mais segura  
-- Painel administrativo para gestão de serviços
+<p align="center">
+  <a href="https://github.com/pietros133/Automaster">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietros133&repo=Automaster&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/pietros133/Campo-Minato">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pietros133&repo=Campo-Minato&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+> 🔹 Se quiser adicionar mais pins (até 6), só me falar.
 
 ---
 
@@ -67,8 +73,8 @@
 - 🇧🇷 Brasileiro  
 - 📚 Estudante de Desenvolvimento de Sistemas  
 - 🤖 Criando uma IA em Java com LangChain  
-- ✈️ Sonho em trabalhar fora  
-- 🔥 Curto IA, gamificação e apps educativos
+- ✈️ Buscando experiência internacional  
+- 🔥 Interesse forte em IA, gamificação e apps educativos
 
 ---
 
