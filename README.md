@@ -1,36 +1,90 @@
-# Hello! I'm Pietro Miranda 👋
+<h1 align="center">👋 Fala aí! Eu sou o Pietro Santos Miranda</h1>
 
-### 👨‍💻 About Me  
-- 🔭 I’m currently working on a personal project: a gamified finance education app.  
-- 🌱 I’m currently learning **Node.js**.  
-- 📫 How to reach me: **santosmirandapietro@gmail.com**
-
----
-
-### 🧰 Technologies and Tools  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+<p align="center">
+  <b>Desenvolvedor Full Stack | Java • Node.js • React • Mobile</b><br/>
+  Apaixonado por tecnologia, IA, apps mobile e criação de sistemas completos.
+</p>
 
 ---
 
-### 📊 GitHub Statistics  
-![Pietro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pietros133&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pietros133&layout=compact&theme=radical)
+## 🚀 Tech Stack & Skills
+
+<p align="center">
+  <!-- Linguagens -->
+  <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,typescript,python,html,css"/>
+  <br/>
+
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=react,reactnative,spring,express,nextjs"/>
+  <br/>
+
+  <!-- Banco / Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,github,git,linux,figma,docker"/>
+</p>
 
 ---
 
-### 🧠 LeetCode Statistics  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Pietros133?theme=dark&font=Karma&ext=heatmap)
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pietros133&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietros133&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-perfil/)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/seu-usuario)  
-📧 **Email:** [santosmirandapietro@gmail.com](mailto:santosmirandapietro@gmail.com)
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pietros133&theme=tokyonight&no-frame=true&row=1&margin-w=10"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pietros133&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📱 Projetos em Destaque
+
+### 🔹 **Automaster — Sistema para oficinas com autenticação e CRUD**
+- Node.js + Express + MySQL  
+- Login com feedback visual (Toastify)  
+- Estrutura de senhas mais segura  
+- Painel administrativo para gestão de serviços
+
+---
+
+## 🌎 Sobre mim
+
+- 🇧🇷 Brasileiro  
+- 📚 Estudante de Desenvolvimento de Sistemas  
+- 🤖 Criando uma IA em Java com LangChain  
+- ✈️ Sonho em trabalhar fora  
+- 🔥 Curto IA, gamificação e apps educativos
+
+---
+
+## 📬 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/seu-link-aqui" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://github.com/pietros133" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  Feito com 💙 por Pietro Miranda
+</p>
