@@ -38,11 +38,16 @@
 </p>
 
 ---
-
-<!-- 📊 GitHub Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pietros133&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app/?username=pietros133&theme=dracula&no-frame=false&margin-w=10&margin-h=10" height="150" />
+  <img 
+    src="https://streak-stats.demolab.com?user=pietros133&theme=dracula&hide_border=false&border_radius=5" 
+    height="150"
+  />
+
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=pietros133&theme=dracula&no-frame=true&row=1&column=6" 
+    height="150"
+  />
 </div>
 
 ---
