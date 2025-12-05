@@ -39,10 +39,11 @@
 
 ---
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=pietros133&theme=dracula&hide_border=false&border_radius=5" 
-    height="150"
-  />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=pietros133&show_icons=true&theme=dracula&hide_border=false" 
+  height="150"
+/>
+
 
   <img 
     src="https://github-profile-trophy.vercel.app/?username=pietros133&theme=dracula&no-frame=true&row=1&column=6" 
