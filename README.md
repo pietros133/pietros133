@@ -39,10 +39,6 @@
 
 ---
 <div align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=pietros133&show_icons=true&theme=dracula&hide_border=false" 
-  height="150"
-/>
 
 
   <img 
