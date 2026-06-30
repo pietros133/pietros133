@@ -32,7 +32,7 @@
 <h3 align="center">🧑‍💻 About Me</h3>
 
 <p align="center">
-  Currently building an <strong>e-commerce platform./strong>.<br>
+  Currently building an <strong>e-commerce platform<./strong>.<br>
   Learning: <strong>Node.js & Java</strong><br>
   Email: <strong>santosmirandapietro@gmail.com</strong>
 </p>
