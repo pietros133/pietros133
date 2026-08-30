@@ -1,58 +1,37 @@
-<h1 align="center">Pietro Santos Miranda</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Backend Developer focused on Java & Spring Boot</strong>
-</p>
+# Hi, I'm Pietro 👋
 
-<p align="center">
-  Building backend applications, REST APIs and software projects with a focus on clean architecture, databases and scalable solutions.
-</p>
+### Backend Developer · Java & Spring Boot
 
-<p align="center">
-  <a href="mailto:santosmirandapietro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-santosmirandapietro%40gmail.com-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p>
   <a href="https://github.com/Pietros133">
-    <img src="https://img.shields.io/badge/GitHub-Pietros133-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Pietros133-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:santosmirandapietro@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="[LINKEDIN_URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<p>
+  <strong>Backend development with Java & Spring Boot.</strong><br>
+  APIs · Databases · Software
+</p>
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a developer focused on **Backend Development**, currently deepening my knowledge of **Java and Spring Boot**.
+I'm **Pietro Santos Miranda**, a developer focused on **Backend Development**, with **Java and Spring Boot** as my main technologies.
 
-My main interests are backend architecture, REST APIs, databases, cloud, DevOps and building software products. I also work and study with technologies such as **Node.js, JavaScript and Python**.
+I'm currently deepening my knowledge of backend development while building **APIs and real-world applications**.
 
-I'm constantly learning through personal and professional projects, with a focus on writing organized, maintainable and reliable software.
-
----
-
-## Current Focus
-
-```text
-Java             ████████████████████
-Spring Boot      ████████████████████
-REST APIs        ██████████████████░░
-Databases        ██████████████████░░
-Docker           ████████████████░░░░
-Backend Design   ████████████████░░░░
-```
-
-Currently focusing on:
-
-* Java & Spring Boot
-* REST API development
-* Backend architecture
-* PostgreSQL & MySQL
-* Docker and development environments
-* Git & GitHub
-* Clean and maintainable code
-* Software architecture and best practices
+I also work and study with **Node.js, JavaScript, Python, Flask, MySQL and Docker**.
 
 ---
 
@@ -61,132 +40,157 @@ Currently focusing on:
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,python,flask" height="50" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java">
+  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring Boot">
 </p>
 
-**Java · Spring Boot · Node.js · JavaScript · Python · Flask**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,js,python,flask" height="45" alt="Node.js, JavaScript, Python and Flask">
+</p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="50" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL">
 </p>
 
-**PostgreSQL · MySQL**
-
-### DevOps & Tools
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github" height="50" alt="DevOps and tools" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma" height="45" alt="Docker, Git, GitHub and Figma">
 </p>
-
-**Docker · Git · GitHub**
-
-### Other
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Other technologies" />
-</p>
-
-**Figma**
 
 ---
 
 ## Featured Projects
 
-> A selection of projects I'm building and maintaining.
-
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">[PROJECT_NAME]</h3>
-      <p align="center">
-        <a href="[PROJECT_URL]">
-          <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-        </a>
-      </p>
-      <p align="center">
-        [PROJECT_DESCRIPTION]
-      </p>
-      <p align="center">
-        <strong>Stack:</strong> [PROJECT_STACK]
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">[PROJECT_NAME]</h3>
-      <p align="center">
-        <a href="[PROJECT_URL]">
-          <img src="https://img.shields.io/badge/View%20Repository-18181B?style=for-the-badge&logo=github&logoColor=white" alt="View repository" />
-        </a>
-      </p>
-      <p align="center">
-        [PROJECT_DESCRIPTION]
-      </p>
-      <p align="center">
-        <strong>Stack:</strong> [PROJECT_STACK]
-      </p>
-    </td>
+    <td width="50%" valign="top">
+
+### [PROJECT NAME]
+
+[DESCRIPTION]
+
+**Stack**
+
+`[TECHNOLOGY]` · `[TECHNOLOGY]` · `[TECHNOLOGY]`
+
+<a href="[REPOSITORY URL]">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+
+```
+</td>
+<td width="50%" valign="top">
+```
+
+### [PROJECT NAME]
+
+[DESCRIPTION]
+
+**Stack**
+
+`[TECHNOLOGY]` · `[TECHNOLOGY]` · `[TECHNOLOGY]`
+
+<a href="[REPOSITORY URL]">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+
+```
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### [PROJECT NAME]
+
+[DESCRIPTION]
+
+**Stack**
+
+`[TECHNOLOGY]` · `[TECHNOLOGY]` · `[TECHNOLOGY]`
+
+<a href="[REPOSITORY URL]">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+
+```
+</td>
+<td width="50%" valign="top">
+```
+
+### [PROJECT NAME]
+
+[DESCRIPTION]
+
+**Stack**
+
+`[TECHNOLOGY]` · `[TECHNOLOGY]` · `[TECHNOLOGY]`
+
+<a href="[REPOSITORY URL]">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+</a>
+
+```
+</td>
+```
+
   </tr>
 </table>
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Pietros133&show_icons=true&hide_border=true&rank_icon=github"
-    alt="Pietro's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietros133&layout=compact&hide_border=true"
-    alt="Pietro's most used languages"
-  />
-</p>
-
----
-
 ## LeetCode
 
-<p align="center">
-  <a href="https://leetcode.com/u/Pietros133/">
-    <img
-      src="https://leetcard.jacoblin.cool/Pietros133?theme=dark&font=Karma&ext=contest"
-      width="400"
-      alt="Pietro's LeetCode profile"
-    />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/Pietros133/">
-    <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile" />
-  </a>
-</p>
+<a href="https://leetcode.com/u/Pietros133/">
+  <img
+    src="https://leetcard.jacoblin.cool/Pietros133?theme=dark&font=Karma&ext=contest"
+    width="420"
+    alt="Pietro's LeetCode Profile"
+  >
+</a>
+
+<br>
+
+<a href="https://leetcode.com/u/Pietros133/">
+  <img
+    src="https://img.shields.io/badge/LeetCode-VIEW%20PROFILE-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"
+    alt="View LeetCode Profile"
+  >
+</a>
+
+</div>
 
 ---
 
-## Let's Connect
+## Connect With Me
 
-<p align="center">
-  Interested in collaborating, discussing software development, or building something together?
-</p>
+<div align="center">
 
-<p align="center">
+### Have an idea? Let's build it.
+
+<p>
+  <a href="https://github.com/Pietros133">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
   <a href="[LINKEDIN_URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:santosmirandapietro@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Pietros133">
-    <img src="https://img.shields.io/badge/GitHub-Follow-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<p align="center">
-  <sub>Building, learning and improving — one project at a time.</sub>
-</p>
+</div>
+
+<div align="center">
+
+<sub>Java · Spring Boot · Backend · APIs · Software</sub>
+
+</div>
