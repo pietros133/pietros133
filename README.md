@@ -27,17 +27,9 @@ Atualmente estou focado em **desenvolvimento backend**, principalmente com **Jav
 Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-commerce e aplicações web**, incluindo projetos freelance e sistemas completos do backend ao deploy.
 
 ---
-
-## 🚀 Atualmente
-
-* ☕ Aprofundando **Java + Spring Boot**
-* 🌐 Estudando **Redes e CCNA**
-
----
-
 ## 🛠️ Tech Stack
 
-### ☕ Backend
+### Backend
 
 <div align="center">
 
@@ -55,7 +47,7 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 </div>
 
-### 🗄️ Databases
+### Databases
 
 <div align="center">
 
@@ -69,7 +61,7 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 </div>
 
-### ☁️ DevOps, Cloud & Infrastructure
+### DevOps, Cloud & Infrastructure
 
 <div align="center">
 
@@ -85,7 +77,7 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 </div>
 
-### 🌐 Frontend & Other Technologies
+### Frontend & Other Technologies
 
 <div align="center">
 
@@ -105,7 +97,7 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
 ### 🛒 Kairos Personalizados
 
@@ -138,7 +130,7 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 ---
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
