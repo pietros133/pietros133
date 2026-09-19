@@ -31,13 +31,7 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 ## 🚀 Atualmente
 
 * ☕ Aprofundando **Java + Spring Boot**
-* 🏗️ Estudando **Clean Architecture, SOLID e Design Patterns**
 * 🌐 Estudando **Redes e CCNA**
-* ☁️ Estudando **AWS Cloud**
-* 🐳 Aprendendo e utilizando **Docker**
-* 🗄️ Trabalhando com **MySQL, PostgreSQL e MongoDB**
-* 🔐 Desenvolvendo APIs com **JWT, autenticação e autorização**
-* ⚡ Estudando **Kafka, Redis e arquitetura distribuída**
 
 ---
 
