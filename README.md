@@ -111,52 +111,6 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 ---
 
-## 📚 Conhecimentos
-
-### Backend
-
-* Java
-* Spring Boot
-* Node.js
-* Express
-* REST APIs
-* JWT / Refresh Token
-* BCrypt
-* DTOs
-* Exception Handling
-* Validation
-* Authentication & Authorization
-* ORM / TypeORM
-* JPA / Hibernate
-
-### Arquitetura & Boas Práticas
-
-* SOLID
-* Clean Code
-* Clean Architecture
-* Design Patterns
-* DTO Pattern
-* Service Layer
-* Repository Pattern
-* Separation of Concerns
-* Idempotência
-* API Design
-
-### Infraestrutura
-
-* Linux
-* Docker
-* Git / GitHub
-* VPS
-* Networking
-* TCP/IP
-* DNS
-* DHCP
-* VLANs
-* Cisco Packet Tracer
-
----
-
 ## 🚀 Projetos
 
 ### 🛒 Kairos Personalizados
@@ -167,20 +121,6 @@ Sistema de e-commerce desenvolvido em parceria, com backend responsável por tod
 
 `Node.js` `Express` `TypeORM` `MySQL/MariaDB` `JWT` `Cloudinary` `Nodemailer` `Mercado Pago` `Docker`
 
-**Principais funcionalidades:**
-
-* Autenticação e autorização
-* Controle de usuários e endereços
-* Catálogo de produtos
-* Carrinho de compras
-* Sistema de avaliações
-* Sistema de pedidos
-* Integração com Mercado Pago
-* Upload de imagens
-* E-mail transacional
-* Controle de permissões
-* Testes de performance com k6
-
 ---
 
 ### ⚽ Peneiras App
@@ -190,19 +130,6 @@ Backend de uma plataforma voltada para jogadores e clubes.
 **Tecnologias:**
 
 `Java 17` `Spring Boot` `PostgreSQL` `Flyway` `JWT` `BCrypt` `Cloudinary`
-
-**Principais funcionalidades:**
-
-* Cadastro e autenticação
-* JWT Authentication
-* Recuperação de senha
-* Controle de usuários
-* Jogadores
-* Clubes
-* Upload de fotos
-* Integração com ViaCEP
-* Migrations com Flyway
-* API REST
 
 ---
 
@@ -215,28 +142,6 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 `Java` `Spring Boot` `PostgreSQL` `Docker`
 
 ---
-
-## 🎓 Formação & Estudos
-
-**ETEC — Desenvolvimento de Sistemas**
-
-Formação concluída.
-
-**ETEC — Redes de Computadores**
-
-Em andamento.
-
-### 📜 Cursos e certificações
-
-* Oracle Java Foundations
-* Cisco Networking Basics
-* CCNA — em andamento
-* AWS Cloud Practitioner Essentials — em andamento
-* Spring Boot / Java — estudos com Chad Darby
-* Clean Code
-* Clean Architecture — em estudo
-* Linux / LPI — estudos
-
 ---
 
 ## 📊 GitHub Stats
