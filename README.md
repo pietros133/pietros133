@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:00274d&height=200&section=header&text=Pietro%20Santos%20Miranda&fontSize=45&fontColor=4da6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20Cloud&descAlignY=58&descColor=cccccc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:3b0d16,100:7a1028&height=200&section=header&text=Pietro%20Santos%20Miranda&fontSize=45&fontColor=FF3B30&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20Cloud&descAlignY=58&descColor=cccccc" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=4DA6FF\&center=true\&vCenter=true\&width=600\&lines=Olá%2C+eu+sou+o+Pietro!+👋;Backend+Developer+%7C+Java+%7C+Spring;Construindo+sistemas+e+aprendendo+todos+os+dias...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=FF3B30\&center=true\&vCenter=true\&width=600\&lines=Ol%C3%A1%2C+eu+sou+o+Pietro!+%F0%9F%91%8B;Backend+Developer+%7C+Java+%7C+Spring;Construindo+sistemas+e+aprendendo+todos+os+dias...)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,6 +27,7 @@ Atualmente estou focado em **desenvolvimento backend**, principalmente com **Jav
 Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-commerce e aplicações web**, incluindo projetos freelance e sistemas completos do backend ao deploy.
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### Backend
@@ -97,7 +98,7 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 ---
 
-## Projetos
+## 🚀 Projetos
 
 ### 🛒 Kairos Personalizados
 
@@ -128,13 +129,12 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 `Java` `Spring Boot` `PostgreSQL` `Docker`
 
 ---
----
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pietros133&show_icons=true&theme=dark_dimmed&locale=pt-br&hide_border=true&title_color=4da6ff&icon_color=4da6ff&text_color=cccccc&bg_color=0d0d0d" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pietros133&show_icons=true&theme=dark_dimmed&locale=pt-br&hide_border=true&title_color=FF3B30&icon_color=FF3B30&text_color=CCCCCC&bg_color=0d0d0d" />
 
 <img height="180em" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Pietros133&layout=compact&langs_count=8&theme=dark" />
 
@@ -142,7 +142,7 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=Pietros133&hide_border=true&background=0D0D0D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=Pietros133&hide_border=true&background=0D0D0D&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888" />
 
 </div>
 
@@ -163,11 +163,11 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Pietro%20Santos%20Miranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Pietro%20Santos%20Miranda-8B1235?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:santosmirandapietro@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contato-B3123D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -178,6 +178,6 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 
 ### Building systems. Learning every day. 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00274d,50:001a33,100:0d0d0d&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1028,50:3b0d16,100:0d0d0d&height=120&section=footer" />
 
 </div>
