@@ -162,10 +162,6 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 
 <div align="center">
 
-<a href="https://github.com/Pietros133">
-<img src="https://img.shields.io/badge/GitHub-Pietros133-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-Pietro%20Santos%20Miranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
