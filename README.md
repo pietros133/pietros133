@@ -1,61 +1,296 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-###
-
-<!-- 🛠️ Tech Stack -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=py" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=docker" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=figma" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=spring" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flask" height="55" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:001a33,100:00274d&height=200&section=header&text=Pietro%20Santos%20Miranda&fontSize=45&fontColor=4da6ff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20%7C%20Cloud&descAlignY=58&descColor=cccccc" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=4DA6FF\&center=true\&vCenter=true\&width=600\&lines=Olá%2C+eu+sou+o+Pietro!+👋;Backend+Developer+%7C+Java+%7C+Spring;Construindo+sistemas+e+aprendendo+todos+os+dias...)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-<h3 align="center">🧑‍💻 About Me</h3>
+## 🧑‍💻 Sobre mim
 
-<p align="center">
-  Currently building an <strong>e-commerce platform</strong>.<br>
-  Learning: <strong>Node.js & Java</strong><br>
-  Email: <strong>santosmirandapietro@gmail.com</strong>
-</p>
+```yaml
+nome: Pietro Santos Miranda
+localização: Brasil 🇧🇷
+foco: Backend Development
+principal: Java + Spring Boot
+também_trabalho_com: Node.js, Python
+bancos: MySQL, PostgreSQL, MongoDB
+infra: Docker, Linux, Git
+estudando: CCNA, AWS Cloud e Arquitetura de Software
+objetivo: Backend Developer → Software Engineer → Founder
+```
+
+Atualmente estou focado em **desenvolvimento backend**, principalmente com **Java e Spring Boot**, estudando arquitetura de software, boas práticas, bancos de dados, redes, cloud e infraestrutura.
+
+Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-commerce e aplicações web**, incluindo projetos freelance e sistemas completos do backend ao deploy.
 
 ---
 
+## 🚀 Atualmente
+
+* ☕ Aprofundando **Java + Spring Boot**
+* 🏗️ Estudando **Clean Architecture, SOLID e Design Patterns**
+* 🌐 Estudando **Redes e CCNA**
+* ☁️ Estudando **AWS Cloud**
+* 🐳 Aprendendo e utilizando **Docker**
+* 🗄️ Trabalhando com **MySQL, PostgreSQL e MongoDB**
+* 🔐 Desenvolvendo APIs com **JWT, autenticação e autorização**
+* ⚡ Estudando **Kafka, Redis e arquitetura distribuída**
 
 ---
 
-<h3 align="center">💡 LeetCode</h3>
+## 🛠️ Tech Stack
+
+### ☕ Backend
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/Pietros133?theme=dark&font=Karma&ext=contest" width="350" />
+
+<img src="https://skillicons.dev/icons?i=java" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=spring" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=nodejs" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=express" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=python" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=flask" height="55" />
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=postgres" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=redis" height="55" />
+
+</div>
+
+### ☁️ DevOps, Cloud & Infrastructure
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=linux" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=aws" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=git" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=github" height="55" />
+
+</div>
+
+### 🌐 Frontend & Other Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=html" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=css" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=react" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=kafka" height="55" />
+<img width="10" />
+<img src="https://skillicons.dev/icons?i=postman" height="55" />
+
 </div>
 
 ---
 
-<!-- 🔗 Socials -->
+## 📚 Conhecimentos
+
+### Backend
+
+* Java
+* Spring Boot
+* Node.js
+* Express
+* REST APIs
+* JWT / Refresh Token
+* BCrypt
+* DTOs
+* Exception Handling
+* Validation
+* Authentication & Authorization
+* ORM / TypeORM
+* JPA / Hibernate
+
+### Arquitetura & Boas Práticas
+
+* SOLID
+* Clean Code
+* Clean Architecture
+* Design Patterns
+* DTO Pattern
+* Service Layer
+* Repository Pattern
+* Separation of Concerns
+* Idempotência
+* API Design
+
+### Infraestrutura
+
+* Linux
+* Docker
+* Git / GitHub
+* VPS
+* Networking
+* TCP/IP
+* DNS
+* DHCP
+* VLANs
+* Cisco Packet Tracer
+
+---
+
+## 🚀 Projetos
+
+### 🛒 Kairos Personalizados
+
+Sistema de e-commerce desenvolvido em parceria, com backend responsável por toda a lógica da aplicação.
+
+**Tecnologias:**
+
+`Node.js` `Express` `TypeORM` `MySQL/MariaDB` `JWT` `Cloudinary` `Nodemailer` `Mercado Pago` `Docker`
+
+**Principais funcionalidades:**
+
+* Autenticação e autorização
+* Controle de usuários e endereços
+* Catálogo de produtos
+* Carrinho de compras
+* Sistema de avaliações
+* Sistema de pedidos
+* Integração com Mercado Pago
+* Upload de imagens
+* E-mail transacional
+* Controle de permissões
+* Testes de performance com k6
+
+---
+
+### ⚽ Peneiras App
+
+Backend de uma plataforma voltada para jogadores e clubes.
+
+**Tecnologias:**
+
+`Java 17` `Spring Boot` `PostgreSQL` `Flyway` `JWT` `BCrypt` `Cloudinary`
+
+**Principais funcionalidades:**
+
+* Cadastro e autenticação
+* JWT Authentication
+* Recuperação de senha
+* Controle de usuários
+* Jogadores
+* Clubes
+* Upload de fotos
+* Integração com ViaCEP
+* Migrations com Flyway
+* API REST
+
+---
+
+### 🚗 Automaster
+
+Sistema de gerenciamento automotivo com foco em organização de clientes, veículos e agendamentos.
+
+**Stack planejada:**
+
+`Java` `Spring Boot` `PostgreSQL` `Docker`
+
+---
+
+## 🎓 Formação & Estudos
+
+**ETEC — Desenvolvimento de Sistemas**
+
+Formação concluída.
+
+**ETEC — Redes de Computadores**
+
+Em andamento.
+
+### 📜 Cursos e certificações
+
+* Oracle Java Foundations
+* Cisco Networking Basics
+* CCNA — em andamento
+* AWS Cloud Practitioner Essentials — em andamento
+* Spring Boot / Java — estudos com Chad Darby
+* Clean Code
+* Clean Architecture — em estudo
+* Linux / LPI — estudos
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/seu-perfil/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="26" />
-  </a>
-  <a href="https://instagram.com/seu-usuario">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="26" />
-  </a>
+
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pietros133&show_icons=true&theme=dark_dimmed&locale=pt-br&hide_border=true&title_color=4da6ff&icon_color=4da6ff&text_color=cccccc&bg_color=0d0d0d" />
+
+<img height="180em" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=Pietros133&layout=compact&langs_count=8&theme=dark" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Pietros133&hide_border=true&background=0D0D0D&ring=4DA6FF&fire=4DA6FF&currStreakLabel=4DA6FF&sideLabels=CCCCCC&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=888888" />
+
+</div>
+
+---
+
+## 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Pietros133?theme=dark&font=Karma&ext=contest" width="400" />
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://github.com/Pietros133">
+<img src="https://img.shields.io/badge/GitHub-Pietros133-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Pietro%20Santos%20Miranda-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:santosmirandapietro@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building systems. Learning every day. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00274d,50:001a33,100:0d0d0d&height=120&section=footer" />
+
 </div>
