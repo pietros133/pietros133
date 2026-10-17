@@ -8,11 +8,11 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 ```yaml
 nome: Pietro Santos Miranda
-localização: Brasil 🇧🇷
+localização: Brasil 
 foco: Backend Development
 principal: Java + Spring Boot
 também_trabalho_com: Node.js, Python
@@ -28,7 +28,7 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -98,9 +98,9 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 
 ---
 
-## 🚀 Projetos
+## Projetos
 
-### 🛒 Kairos Personalizados
+### Kairos Personalizados
 
 Sistema de e-commerce desenvolvido em parceria, com backend responsável por toda a lógica da aplicação.
 
@@ -110,7 +110,7 @@ Sistema de e-commerce desenvolvido em parceria, com backend responsável por tod
 
 ---
 
-### ⚽ Peneiras App
+### Peneiras App
 
 Backend de uma plataforma voltada para jogadores e clubes.
 
@@ -120,7 +120,7 @@ Backend de uma plataforma voltada para jogadores e clubes.
 
 ---
 
-### 🚗 Automaster
+### Automaster
 
 Sistema de gerenciamento automotivo com foco em organização de clientes, veículos e agendamentos.
 
@@ -130,7 +130,7 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -148,7 +148,7 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 
 ---
 
-## 💻 LeetCode
+## LeetCode
 
 <div align="center">
 
@@ -158,7 +158,7 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 
 ---
 
-## 📫 Contato
+## Contato
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Sistema de gerenciamento automotivo com foco em organização de clientes, veíc
 
 <div align="center">
 
-### Building systems. Learning every day. 🚀
+### Building systems. Learning every day. 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7a1028,50:3b0d16,100:0d0d0d&height=120&section=footer" />
 
