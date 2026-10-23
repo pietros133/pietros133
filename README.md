@@ -95,39 +95,6 @@ Também tenho experiência prática desenvolvendo **APIs REST, sistemas de e-com
 <img src="https://skillicons.dev/icons?i=postman" height="55" />
 
 </div>
-
----
-
-## Projetos
-
-### Kairos Personalizados
-
-Sistema de e-commerce desenvolvido em parceria, com backend responsável por toda a lógica da aplicação.
-
-**Tecnologias:**
-
-`Node.js` `Express` `TypeORM` `MySQL/MariaDB` `JWT` `Cloudinary` `Nodemailer` `Mercado Pago` `Docker`
-
----
-
-### Peneiras App
-
-Backend de uma plataforma voltada para jogadores e clubes.
-
-**Tecnologias:**
-
-`Java 17` `Spring Boot` `PostgreSQL` `Flyway` `JWT` `BCrypt` `Cloudinary`
-
----
-
-### Automaster
-
-Sistema de gerenciamento automotivo com foco em organização de clientes, veículos e agendamentos.
-
-**Stack planejada:**
-
-`Java` `Spring Boot` `PostgreSQL` `Docker`
-
 ---
 
 ## GitHub Stats
